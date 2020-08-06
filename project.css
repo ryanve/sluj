@@ -1,5 +1,6 @@
-html { font: 1.5em/2 sans-serif }
-body { margin: 2em }
+html { font: 2em/2 sans-serif }
+body { margin: 1em }
+a { padding: .1em }
 
 .calm { font-weight: 400 }
 .bold { font-weight: 700 }
